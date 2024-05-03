@@ -1,0 +1,21 @@
+.wrapper{
+    display: flex;
+    height: 100vh;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+h3{
+    background-color: red;
+}
+span{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.content{
+    background-color: red;
+    width: 700px;
+}
