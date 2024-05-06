@@ -46,7 +46,6 @@ export default function RandomColor() {
 
     }
 
-
     return (
 
         <div
@@ -76,7 +75,6 @@ export default function RandomColor() {
                 <h1>{typeOfColor}</h1>
                 <h3>{color}</h3>
             </div>
-
 
         </div>
 
